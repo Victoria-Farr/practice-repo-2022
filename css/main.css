@@ -33,6 +33,7 @@ body {
 
 .greeting p {
     font-family: 'Work Sans', sans-serif;
+    font-size: 1em;
     width: 100%;
 }
 
